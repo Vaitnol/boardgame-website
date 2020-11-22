@@ -1,0 +1,4 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://vitaly:qwert@cluster0.p5jae.mongodb.net/boardgames?retryWrites=true&w=majority"
+}
